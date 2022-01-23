@@ -1,0 +1,8 @@
+name: MysticSkulls
+version: '${project.version}'
+main: me.ruserious99.mysticskulls.MysticSkulls
+api-version: 1.16
+authors: [ RuSerious99 ]
+description: increase decrease player abitilites
+commands:
+  skull:
